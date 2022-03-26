@@ -1,2 +1,6 @@
-# cbu-uz
-CBU.UZ - Central Bank Uzbekistan
+# CBU - valyuta kurslari haqida malumot olish
+
+## O'rnatish
+```bash
+pip install requests
+```
